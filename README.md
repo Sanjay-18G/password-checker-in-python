@@ -1,1 +1,1 @@
-# password-checker-in-python
+# password-generator-in-python
